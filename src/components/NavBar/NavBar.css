@@ -1,0 +1,6 @@
+.NavBar{ 
+    display: flex; 
+    padding: 20px; 
+    height: 50px; 
+    justify-content: space-around; 
+    background-color:  red; }
